@@ -1,5 +1,5 @@
 # Flex Starter Guide
-Learning about *Flex*
+## Learning about *Flex* 
 This is a beginner project that will teach how to use [Flex](https://www.w3schools.com/css/css3_flexbox.asp)
 
 ## Getting Started
